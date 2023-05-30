@@ -165,7 +165,7 @@ mencapai lebih dari 2000 tahun.', 'artikel-kedua');
 
 - Refresh kembali browser, sehingga akan ditampilkan hasilnya.
 
-![Tampilan Artikel](img/tampilan_artikel.png)
+![Tampilan Artikel](img/tampilan_artikel.jpg)
 
 # Membuat Tampilan Detail Artikel
 <p>Tampilan pada saat judul berita di klik maka akan diarahkan ke halaman yang berbeda. Tambahkan
